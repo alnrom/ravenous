@@ -36,3 +36,41 @@
     transform: rotate(360deg);
   }
 }
+
+.navBar {
+  width: auto;
+  height: 5%;
+  display: flex;
+  text-align: center;
+}
+
+.topContainer {
+  padding: 1%;
+  margin: 5%;
+  font-weight: 700;
+  background-color:aliceblue;
+}
+
+.SearchOptions {
+  display: flex;
+  text-align: center;
+}
+
+.searchBarContainer{
+  padding: 5%;
+} 
+
+#searchBar {
+  height: 40px;
+  width: 95%;
+}
+
+#SearchButton {
+  width: 80%;
+  align-items: center;
+}
+
+#imagesContainer {
+  display: flex;
+  text-align: center;
+}
